@@ -1,10 +1,6 @@
-welcome
-hello
-new line
-
-
-
-extra line
-
-hello
+#include<stdio.h>
+void main()
+{
+printf("Hello from GIT");
+}
 
